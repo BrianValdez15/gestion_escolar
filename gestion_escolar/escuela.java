@@ -24,4 +24,8 @@ public class escuela {
     public void direccion(){
         
     }
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 8e8ea651577246e25a04e0282e6f26c5e4ac67f4
 }
