@@ -10,5 +10,11 @@ package gestion_escolar;
  * @author User
  */
 public class curso {
-    
+    int salon,grado;
+    public void salon(){
+        
+    }
+    public void grado(){
+        
+    }
 }
