@@ -11,4 +11,13 @@ package gestion_escolar;
  */
 public class administrador {
     
+    String correoAdmi;
+    int contraseñaAdmi;
+    public void correoAdmi(){
+        
+    }
+    public void contraseñaAdmi(){
+        
+    }
+    
 }
