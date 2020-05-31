@@ -10,6 +10,6 @@ public class Horario{
     double Inicio;
     }
     public void Termino() { 
-    String Termino;
+    double Termino;
    }
 }
