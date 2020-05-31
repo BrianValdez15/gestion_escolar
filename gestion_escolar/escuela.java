@@ -10,5 +10,19 @@ package gestion_escolar;
  * @author User
  */
 public class escuela {
+    String nombre,direccion;
+    int clave,telefono;
+    public void nombre(){
+        
+    }
+    public void clave(){
+        
+    }
+    public void telefono(){
+        
+    }
+    public void direccion(){
+        
+    }
     
 }
