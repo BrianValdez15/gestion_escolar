@@ -10,5 +10,9 @@ package gestion_escolar;
  * @author User
  */
 public class clase {
+    String NombreMat;
     
+    public void NombreMat(){
+    String NombreMat;    
+    }
 }
