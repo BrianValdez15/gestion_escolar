@@ -1,7 +1,7 @@
 public class Horario_1{
   
    String Dia;
-   double Inicio,Termino;
+   double Inicio=8.50,Termino=9.45;
    
     public void Dia() { 
     String Dia;
@@ -9,14 +9,14 @@ public class Horario_1{
 
     }
     public void Inicio() { 
-    double Inicio;
-      duble Inicio = (8.50) 
+    
+     
          System.out.println(Inicio);
 
     }
     public void Termino() { 
-    double Termino;
-      duble Terino = (9.45 ) 
+    
+     
          System.out.println(Termino);
    }
   public void MostrarHorario(){
