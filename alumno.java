@@ -1,6 +1,10 @@
+//esta clase fue echa por yair
+
+
+import gestion_escolar.escuela;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class alumno {
+public class alumno extends escuela{
     
    String Correo;
    String Nombre;
