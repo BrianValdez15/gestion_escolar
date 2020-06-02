@@ -1,4 +1,4 @@
-public class Maestro {
+public class Maestro_1{
     
    String Correo;
    String Nombre;

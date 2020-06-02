@@ -17,5 +17,5 @@ public class Gestion_escolar {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    system.out.println ("Holi");
+    
 }

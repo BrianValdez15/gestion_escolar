@@ -1,4 +1,4 @@
-public class Horario{
+public class Horario_1{
   
    String Dia;
    double Inicio,Termino;

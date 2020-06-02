@@ -11,13 +11,7 @@ package gestion_escolar;
  */
 public class clase {
     String NombreMat;
-<<<<<<< HEAD
     public void NombreMat(){
-        
-=======
-    
-    public void NombreMat(){
-    String NombreMat;    
->>>>>>> 8e8ea651577246e25a04e0282e6f26c5e4ac67f4
     }
+    
 }
